@@ -1,0 +1,11 @@
+C:\Users\VolVe\OneDrive\Рабочий стол\Sliv\VolVeRProtected\VolVeRProtected\bin\Debug\VolVeRProtected.exe.config
+C:\Users\VolVe\OneDrive\Рабочий стол\Sliv\VolVeRProtected\VolVeRProtected\bin\Debug\VolVeRProtected.exe
+C:\Users\VolVe\OneDrive\Рабочий стол\Sliv\VolVeRProtected\VolVeRProtected\bin\Debug\VolVeRProtected.pdb
+C:\Users\VolVe\OneDrive\Рабочий стол\Sliv\VolVeRProtected\VolVeRProtected\obj\Debug\VolVeRProtected.csproj.AssemblyReference.cache
+C:\Users\VolVe\OneDrive\Рабочий стол\Sliv\VolVeRProtected\VolVeRProtected\obj\Debug\VolVeRProtected.csproj.SuggestedBindingRedirects.cache
+C:\Users\VolVe\OneDrive\Рабочий стол\Sliv\VolVeRProtected\VolVeRProtected\obj\Debug\VolVeRProtected.Form1.resources
+C:\Users\VolVe\OneDrive\Рабочий стол\Sliv\VolVeRProtected\VolVeRProtected\obj\Debug\VolVeRProtected.Properties.Resources.resources
+C:\Users\VolVe\OneDrive\Рабочий стол\Sliv\VolVeRProtected\VolVeRProtected\obj\Debug\VolVeRProtected.csproj.GenerateResource.cache
+C:\Users\VolVe\OneDrive\Рабочий стол\Sliv\VolVeRProtected\VolVeRProtected\obj\Debug\VolVeRProtected.csproj.CoreCompileInputs.cache
+C:\Users\VolVe\OneDrive\Рабочий стол\Sliv\VolVeRProtected\VolVeRProtected\obj\Debug\VolVeRProtected.exe
+C:\Users\VolVe\OneDrive\Рабочий стол\Sliv\VolVeRProtected\VolVeRProtected\obj\Debug\VolVeRProtected.pdb
